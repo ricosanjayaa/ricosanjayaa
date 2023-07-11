@@ -1,6 +1,7 @@
 # Hello there! 👋
 ### I'm Rico Sanjaya, I am a self-taught website developer.
 Here are some of the tech stacks that I use.
+
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-2f1a47?style=flat&logo=typescript)&nbsp;
 
