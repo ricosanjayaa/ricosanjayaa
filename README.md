@@ -2,6 +2,8 @@
 ### I'm Rico Sanjaya, I am a self-taught website developer.
 Here are some of the tech stacks that I use.
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricosanjayaa&langs_count=5" align="right" width="300px">
+
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-2f1a47?style=flat&logo=typescript)&nbsp;
 
