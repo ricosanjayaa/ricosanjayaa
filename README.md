@@ -18,18 +18,18 @@ Here are some of the projects I've completed and particularly enjoyed working on
 
 I create amazing websites using **TypeScript** and **Next.js**. Recently, I've been exploring animations with **GSAP**.
 
-![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=social&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-2f1a47?style=social&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-2f1a47?style=social&logo=react)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-2f1a47?style=social&logo=node.js)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-2f1a47?style=social&logo=html5)&nbsp;  
-![CSS3](https://img.shields.io/badge/-CSS3-2f1a47?style=social&logo=css3&logoColor=039be5)&nbsp;
-![Next.JS](https://img.shields.io/badge/-Next.JS-2f1a47?style=social&logo=next.js)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-2f1a47?style=social&logo=tailwindcss)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-2f1a47?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-2f1a47?style=flat&logo=react)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-2f1a47?style=flat&logo=node.js)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-2f1a47?style=flat&logo=html5)&nbsp;  
+![CSS3](https://img.shields.io/badge/-CSS3-2f1a47?style=flat&logo=css3&logoColor=039be5)&nbsp;
+![Next.JS](https://img.shields.io/badge/-Next.JS-2f1a47?style=flat&logo=next.js)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-2f1a47?style=flat&logo=tailwindcss)&nbsp;
 
 ### Let's connect!
 
 Let's work together and connect together through [LinkedIn](https://www.linkedin.com/in/ricosanjaya/).
 
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=ricosanjaya&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/ricosanjaya/)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/ricosanjayaa.svg?label=Follow%20@ricosanjayaa&style=social)](https://github.com/ricosanjayaa/)
+[![GitHub followers](https://img.shields.io/github/followers/ricosanjayaa.svg?label=Follow%20@ricosanjayaa&style=flat)](https://github.com/ricosanjayaa/)
