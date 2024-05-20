@@ -18,18 +18,18 @@ Here are some of the projects I've completed and particularly enjoyed working on
 
 I create amazing websites using **TypeScript** and **Next.js**. Recently, I've been exploring animations with **GSAP**.
 
-![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-2f1a47?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-2f1a47?style=flat&logo=react)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-2f1a47?style=flat&logo=node.js)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-2f1a47?style=flat&logo=html5)&nbsp;  
-![CSS3](https://img.shields.io/badge/-CSS3-2f1a47?style=flat&logo=css3&logoColor=039be5)&nbsp;
-![Next.JS](https://img.shields.io/badge/-Next.JS-2f1a47?style=flat&logo=next.js)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-2f1a47?style=flat&logo=tailwindcss)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-0F0F0F?logo=javascript&logoColor=white)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-0F0F0F?logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-0F0F0F?logo=react&logoColor=white)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0F0F0F?logo=node.js&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-0F0F0F?logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-0F0F0F?logo=css3&logoColor=039be5&logoColor=white)&nbsp;
+![Next.JS](https://img.shields.io/badge/-Next.JS-0F0F0F?logo=next.js&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0F0F0F?logo=tailwindcss&logoColor=white)&nbsp;
 
 ### Let's connect!
 
 Let's work together and connect together through [LinkedIn](https://www.linkedin.com/in/ricosanjaya/).
 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=ricosanjaya&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/ricosanjaya/)&nbsp;
+[![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=ricosanjaya&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/ricosanjaya/&logoColor=white)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/ricosanjayaa.svg?label=Follow%20@ricosanjayaa&style=flat)](https://github.com/ricosanjayaa/)
