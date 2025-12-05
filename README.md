@@ -2,8 +2,15 @@
 
 <h1>👋 Welcome!</h1>
 <p>
-  <a href="https://visitorbadge.io/status?path=ricosanjayaa%2Fricosanjayaa"><img src="https://api.visitorbadge.io/api/visitors?path=ricosanjayaa%2Fricosanjayaa&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
-  <a href="https://github.com/ricosanjayaa?tab=repositories"><img src="https://img.shields.io/github/stars/ricosanjayaa?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fricosanjayaa">
+    <img
+      src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fricosanjayaa&label=%F0%9F%8C%8D%20Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none"
+    />
+  </a>
+
+  <a href="https://github.com/ricosanjayaa?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ricosanjayaa?style=flat&logo=github&label=Total%20Stars&color=teal"/>
+  </a>
 </p>
 
 Good to see you here! I am **Rico Sanjaya**, a website developer currently working on my own to create things I like. I have a passion for **problem-solving** and **making websites**. I enjoy turning ideas into reality through code and constantly learning new technologies to improve my skills. When I'm not coding, I love exploring new **design trends** and collaborating with others on exciting projects.
